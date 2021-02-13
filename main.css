@@ -1,0 +1,19 @@
+h1 {
+    color: firebrick; /* turns all heading type 1 to firebrick */
+    font-family: 'Reggae One' , cursive; /* h1 elements inherit the font-family                                         property */ 
+    letter-spacing: 1px; /* spaces out each letter */
+} 
+
+h2 {
+  color: darkslategray;
+  border: 3px dotted; /* creates a rectangular border around all h2 elements */
+    text-align: center; /* aligns text to the center of the area */
+}
+
+
+h3 {
+    background-color: aliceblue;
+    border-top: 2px dashed cadetblue; /* creates a 2 pxdashed line above h3                                         elements */
+    text-decoration-line: underline /* decorates the text thru underline */
+}
+
